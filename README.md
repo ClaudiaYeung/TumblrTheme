@@ -1,3 +1,3 @@
 # TumblrTheme
 
-This is HTML/CSS code created around 2011 to create a Tumblr blog's theme. I aim to preserve the digital history and provide a glimpse into the aesthetics and interests of the Tumblr blog during its active period.
+ This code uses HTML/CSS to create a tumblr blog theme. The code includes a music player, blog posts, and links. Tumblr link is available upon request. 
